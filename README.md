@@ -1,10 +1,24 @@
-- 👋 Hi, my name is Sang In Byeon and I go by David.
-- 👀 I’m interested in Data, AI, MI.
-- 🌱 I’m currently studying Data Science at Arizona State University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Sang In Byeon 👋
 
-<!---
-sibyeon/sibyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Data Science @ Arizona State University (graduating soon)  
+🇰🇷 International student from South Korea | OPT/H1B candidate  
+🔍 Actively looking for Data Analyst / BI Analyst / Analytics roles
+
+---
+
+## 🚀 Projects
+
+### 🔒 GPT Privacy Risk Dashboard
+Analysis of privacy risks across 420 custom ChatGPT GPTs in 15 categories.  
+Built a web crawler, performed canary testing, and visualized findings in an interactive dashboard.  
+**[Live App](https://a6wrzdrxbhdbu8ppd6wpt6.streamlit.app/)** | **[GitHub](https://github.com/sibyeon/gpt-privacy-analysis)**
+
+### 🌍 CO₂ vs GDP per Capita Analysis
+Explored the relationship between national wealth and carbon emissions across 165 countries (1990–2020).  
+Original analysis in R, rebuilt in Python with interactive Plotly visualizations and Streamlit.  
+**[Live App](https://co2-gdp-analysis-nkvgxmpxgxhclhvrpxcgqd.streamlit.app/)** | **[GitHub](https://github.com/sibyeon/co2-gdp-analysis)**
+
+---
+
+## 🛠️ Skills
+Python · R · SQL · Streamlit ·
