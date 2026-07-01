@@ -3,6 +3,7 @@
 🎓 Data Science @ Arizona State University (graduating soon)  
 🇰🇷 International student from South Korea | OPT/H1B candidate  
 🔍 Actively looking for Data Analyst / BI Analyst / Analytics roles
+
 💼 [LinkedIn](https://linkedin.com/in/sibyeon98)
 ---
 
