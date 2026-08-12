@@ -1,4 +1,4 @@
-# Hi, I'm Sang In Byeon, you can call me David as well.👋
+# Hi, I'm Sang In Byeon (David) 👋
 
 🎓 Data Science @ Arizona State University (graduating soon)  
 🇰🇷 International student from South Korea | 
