@@ -1,7 +1,7 @@
 # Hi, I'm Sang In Byeon 👋
 
 🎓 Data Science @ Arizona State University (graduating soon)  
-🇰🇷 International student from South Korea | OPT/H1B candidate  
+🇰🇷 International student from South Korea | 
 🔍 Actively looking for Data Analyst / BI Analyst / Analytics roles
 
 💼 [LinkedIn](https://linkedin.com/in/sibyeon98)
